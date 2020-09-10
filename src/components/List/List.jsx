@@ -3,8 +3,8 @@ import styles from './list.module.scss';
 
 const List = ({ key, item }) => {
   return (
-    <div className={styles.body}>
-      List
+    <div>
+      <p>List</p>
     </div>
   )
 }

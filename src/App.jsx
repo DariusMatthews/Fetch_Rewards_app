@@ -25,13 +25,13 @@ function App() {
   }, []);
 
   return (
-    <>
+    <div className="app">
       {
         list.length !== 0
           ? <List />
           : <h1>Now loading...</h1>
       }
-    </>
+    </div>
   );
 }
 
