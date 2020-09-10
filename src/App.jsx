@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import List from './components/List/List';
 import './App.scss';
 
 function App() {
@@ -24,13 +25,13 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <>
       {
         list.length !== 0
-          ? list.map(item => <p key={item.id}>{item.name}</p>)
+          ? <List />
           : <h1>Now loading...</h1>
       }
-    </div>
+    </>
   );
 }
 
