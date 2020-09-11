@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { StylesProvider } from '@material-ui/core';
 import List from './components/List/List';
 import './App.scss';
 
@@ -25,13 +26,15 @@ function App() {
   }, []);
 
   return (
-    <div className="app">
-      {
-        list.length !== 0
-          ? <List list={list} />
-          : <h1>Now loading...</h1>
-      }
-    </div>
+    <StylesProvider injectFirst>
+      <div className="app">
+        {
+          list.length !== 0
+            ? <List list={list} />
+            : <h1>Now loading...</h1>
+        }
+      </div>
+    </StylesProvider>
   );
 }
 

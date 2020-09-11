@@ -1,4 +1,20 @@
+@import '../../variable.scss';
+
 .container {
   max-height: 75vh;
   min-width: 50vw;
+}
+
+.tableHeaderCell {
+  background-color: darken($bgColor, 10%);
+  color: darken($textColor, 15%);
+  font-weight: 600;
+}
+
+.tableRow {
+  background-color: $tableBgColor;
+}
+
+.tableBodyCell {
+  color: $textColor;
 }
