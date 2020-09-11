@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//dariusmatthews.github.io/Fetch_Rewards_app/static/css/main.b94dc928.chunk.css",
+    "main.js": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/main.b41fc199.chunk.js",
+    "main.js.map": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/main.b41fc199.chunk.js.map",
+    "runtime-main.js": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/runtime-main.5087341d.js",
+    "runtime-main.js.map": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/runtime-main.5087341d.js.map",
+    "static/js/2.f89e4654.chunk.js": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/2.f89e4654.chunk.js",
+    "static/js/2.f89e4654.chunk.js.map": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/2.f89e4654.chunk.js.map",
+    "index.html": "//dariusmatthews.github.io/Fetch_Rewards_app/index.html",
+    "precache-manifest.a7453c43f32f06400432675901bb2c1e.js": "//dariusmatthews.github.io/Fetch_Rewards_app/precache-manifest.a7453c43f32f06400432675901bb2c1e.js",
+    "service-worker.js": "//dariusmatthews.github.io/Fetch_Rewards_app/service-worker.js",
+    "static/css/main.b94dc928.chunk.css.map": "//dariusmatthews.github.io/Fetch_Rewards_app/static/css/main.b94dc928.chunk.css.map",
+    "static/js/2.f89e4654.chunk.js.LICENSE.txt": "//dariusmatthews.github.io/Fetch_Rewards_app/static/js/2.f89e4654.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5087341d.js",
+    "static/js/2.f89e4654.chunk.js",
+    "static/css/main.b94dc928.chunk.css",
+    "static/js/main.b41fc199.chunk.js"
+  ]
+}
