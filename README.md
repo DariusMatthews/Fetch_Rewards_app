@@ -1,7 +1,7 @@
 # Fetch Rewards Code Test
 
 ### [Live Web App](https://dariusmatthews.github.io/Fetch_Rewards_app/)
-### [Github Repo](https://github.com/DariusMatthews/User-Task-App)
+### [Github Repo](https://github.com/DariusMatthews/Fetch_Rewards_app)
 
 ## Challenge Criteria
 
