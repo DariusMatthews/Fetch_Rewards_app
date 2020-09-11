@@ -28,7 +28,7 @@ function App() {
     <div className="app">
       {
         list.length !== 0
-          ? <List />
+          ? <List list={list} />
           : <h1>Now loading...</h1>
       }
     </div>
